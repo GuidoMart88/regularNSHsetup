@@ -1,0 +1,12 @@
+controller='10.0.2.15'
+firewall='172.17.0.3'
+firewall2='172.17.0.4'
+dpi='172.17.0.5'
+dpi2='172.17.0.6'
+classifier1='172.17.0.2'
+classifier2='172.17.0.9'
+sff1='10.0.2.15'
+
+DEFAULT_PORT='8181'
+USERNAME='admin'
+PASSWORD='admin'
